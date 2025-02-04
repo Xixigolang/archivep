@@ -1,0 +1,4 @@
+"""
+autorizado = True
+seleccionado = False
+"""
