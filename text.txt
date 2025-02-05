@@ -1,6 +1,6 @@
 /*
 
-pyclass for
+pyclass
 Copyright (c) 2025 xixigolang,
 
 */
