@@ -5,11 +5,13 @@ using UnityEngine;
 
 public class PlayerManager : MonoBehaviour 
 {
+    // Start is called before the first frame update
     void Start()
     {
         Debug.Log("Hello World!"); // 在控制台输出
     }
 
+    // Update is called once per frame
     void Update()
     {
         //vacio
