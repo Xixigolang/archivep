@@ -1,0 +1,17 @@
+🚀 8. 进阶内容
+当你熟悉了基础 C# 语法，你可以开始学习：
+
+物理引擎（Rigidbody2D、碰撞、重力）
+动画系统（Animator、State Machine）
+UI 系统（Canvas、Button、Text）
+摄像机控制（跟随玩家、缩放、平滑移动）
+AI（寻路、敌人行为）
+数据存储（PlayerPrefs、JSON、数据库）
+
+--
+🎉 总结
+C# 是 Unity 的主要编程语言，MonoBehaviour 是脚本的基础。
+Start() 只执行一次，Update() 每帧执行，适用于游戏逻辑。
+可以用 transform.position 让物体移动、transform.Rotate() 让物体旋转。
+可以用 OnTriggerEnter() 和 OnCollisionEnter() 处理碰撞事件。
+可以用 SceneManager.LoadScene() 来切换游戏场景。
