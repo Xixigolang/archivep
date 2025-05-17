@@ -2,13 +2,14 @@
 passoword = input("ingress password: ")
 
 
-# password :play
-\
-\
+    # password :play
 if passoword == "1234":
     print("Login successful!")
 else:
     print("Incorrect password.")
+            # password :end
+
 \
-        # password :end
+\
+\
 
